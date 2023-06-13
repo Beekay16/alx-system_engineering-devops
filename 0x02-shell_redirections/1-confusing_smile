@@ -1,2 +1,3 @@
 #!/bin/bash
-echo '"(Ôo)'\'
+echo -e "\xE2\x98\xBBOo'"
+
